@@ -25,9 +25,9 @@ title: ArabWomen-1892-1925
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Arab Women 1892-1925 collection documents the contributions of pioneering Arab women writers and journalists who played a important role in shaping modern Arabic literature and press during the late 19th and early 20th centuries."
+description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: HibaFarhat
+author: CollectionBuilder
 
 ##########
 # COLLECTION SETTINGS
